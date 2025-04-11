@@ -1,0 +1,162 @@
+t, --template (vite-react)
+--bun/--npm/--pnpm/--yarn
+create-wagmi
+-h, --help
+-v, --version
+vite-vanilla
+A React project
+import { sourcify } from '@wagmi/cli/plugins
+import { defineConfig } from '@wagmi/cli'
+import { sourcify } from '@wagmi/cli/plugins'
+
+export default defineConfig({import { type SourcifyConfig } from '@wagmi/cli/plugins'
+  plugins: [
+    sourcify({
+      contracts: [
+        {
+          name: 'deposit',
+          address: '0x00000000219ab540356cbb839cbe05303d7705fa',
+        },number | undefined
+
+Duration in milliseconds to cache ABIs.
+Defaults to 1_800_000 (30 minutes).
+
+import { defineConfig } from '@wagmi/cli'
+import { sourcify } from '@wagmi/cli/plugins'
+
+export default defineConfig({
+  plugins: [
+    sourcify({
+      cacheDuration: 300_000, 
+      chainId: 100,
+      contracts: [
+        {
+          name: 'Deposit',
+          address: '0x00000000219ab540356cbb839cbe05303d7705fa',
+        }, 
+      ],number | undefined
+
+Duration in milliseconds to cache ABIs.
+Defaults to 1_800_000 (30 minutes).
+
+import { defineConfig } from '@wagmi/cli'
+import { sourcify } from '@wagmi/cli/plugins'
+
+export default defineConfig({
+  plugins: [
+    sourcify({
+      cacheDuration: 300_000, 
+      chainId: 100,
+      contracts: [
+        {
+          name: 'Deposit',
+          address: '0x00000000219ab540356cbb839cbe05303d7705fa',
+        },import { defineConfig } from '@wagmi/cli'
+import { sourcify } from '@wagmi/cli/plugins'
+
+export default defineConfig({
+  plugins: [
+    sourcify({
+      chainId: 100, 
+      contracts: [
+        {
+          name: 'Community',
+          address: {
+            100: '0xC4c622862a8F548997699bE24EA4bc504e5cA865',
+            137: '0xC4c622862a8F548997699bE24EA4bc504e5cA865',
+          },
+        },import { defineConfig } from '@wagmi/cli'
+import { sourcify } from '@wagmi/cli/plugins'
+
+export default defineConfig({
+  plugins: [
+    sourcify({
+      chainId: 100,
+      contracts: [ 
+        { 
+          name: 'Deposit', 
+          address: '0x00000000219ab540356cbb839cbe05303d7705fa', 
+        }, 
+      ], import { sourcify } from '@wagmi/cli/plugins'
+    }),import { defineConfig } from '@wagmi/cli'
+import { sourcify } from '@wagmi/cli/plugins'
+
+export default defineConfig({
+  plugins: [
+    sourcify({
+      contracts: [
+        {
+          name: 'deposit',
+          address: '0x00000000219ab540356cbb839cbe05303d7705fa',
+        },import { type SourcifyConfig } from '@wagmi/cli/plugins'
+      ],
+    }),import { defineConfig } from '@wagmi/cli'
+import { sourcify } from '@wagmi/cli/plugins'
+
+export default defineConfig({
+  plugins: [
+    sourcify({
+      cacheDuration: 300_000, 
+      chainId: 100,
+      contracts: [
+        {
+          name: 'Deposit',
+          address: '0x00000000219ab540356cbb839cbe05303d7705fa',
+        },import { defineConfig } from '@wagmi/cli'
+import { sourcify } from '@wagmi/cli/plugins'
+
+export default defineConfig({
+  plugins: [
+    sourcify({
+      chainId: 100, 
+      contracts: [
+        {
+          name: 'Community',
+          address: {
+            100: '0xC4c622862a8F548997699bE24EA4bc504e5cA865',
+            137: '0xC4c622862a8F548997699bE24EA4bc504e5cA865',
+          },{ name: string; address?: Address | Record<number, Address> | undefined }
+        },import { defineConfig } from '@wagmi/cli'
+import { sourcify } from '@wagmi/cli/plugins'
+
+export default defineConfig({
+  plugins: [
+    sourcify({
+      chainId: 100,
+      contracts: [ 
+        { 
+          name: 'Deposit', 
+          address: '0x00000000219ab540356cbb839cbe05303d7705fa', 
+        }, 
+      ], --template/-t
+    }),pnpm create wagmi --template
+  ],-h, --help
+})-v, --version
+      ],
+    }),create-wagmi
+  ],next
+nuxt
+})vite-react
+      ],vite-vanilla
+    }),vite-vue
+  ],(vite-react)
+})
+  ],
+})
+  ],
+})
+      ],
+    }),
+  ],
+})
+      ],
+    }),
+  ],
+})
+    }),
+  ],
+})
+      ],
+    }),
+  ],
+})
